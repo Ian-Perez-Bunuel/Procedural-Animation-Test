@@ -1,0 +1,30 @@
+﻿  Body.cpp
+C:\Users\Ian\Desktop\SFML Projects\Procedural Animation\Procedural Animation\Globals.h(5,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Body.cpp')
+  
+C:\Users\Ian\Desktop\SFML Projects\Procedural Animation\Procedural Animation\Body.cpp(21,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ian\Desktop\SFML Projects\Procedural Animation\Procedural Animation\Body.cpp(45,16): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ian\Desktop\SFML Projects\Procedural Animation\Procedural Animation\Body.cpp(45,16): warning C4244:         with
+C:\Users\Ian\Desktop\SFML Projects\Procedural Animation\Procedural Animation\Body.cpp(45,16): warning C4244:         [
+C:\Users\Ian\Desktop\SFML Projects\Procedural Animation\Procedural Animation\Body.cpp(45,16): warning C4244:             T=float
+C:\Users\Ian\Desktop\SFML Projects\Procedural Animation\Procedural Animation\Body.cpp(45,16): warning C4244:         ]
+C:\Users\Ian\Desktop\SFML Projects\Procedural Animation\Procedural Animation\Body.cpp(49,16): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ian\Desktop\SFML Projects\Procedural Animation\Procedural Animation\Body.cpp(49,16): warning C4244:         with
+C:\Users\Ian\Desktop\SFML Projects\Procedural Animation\Procedural Animation\Body.cpp(49,16): warning C4244:         [
+C:\Users\Ian\Desktop\SFML Projects\Procedural Animation\Procedural Animation\Body.cpp(49,16): warning C4244:             T=float
+C:\Users\Ian\Desktop\SFML Projects\Procedural Animation\Procedural Animation\Body.cpp(49,16): warning C4244:         ]
+C:\Users\Ian\Desktop\SFML Projects\Procedural Animation\Procedural Animation\Body.cpp(53,16): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ian\Desktop\SFML Projects\Procedural Animation\Procedural Animation\Body.cpp(53,16): warning C4244:         with
+C:\Users\Ian\Desktop\SFML Projects\Procedural Animation\Procedural Animation\Body.cpp(53,16): warning C4244:         [
+C:\Users\Ian\Desktop\SFML Projects\Procedural Animation\Procedural Animation\Body.cpp(53,16): warning C4244:             T=float
+C:\Users\Ian\Desktop\SFML Projects\Procedural Animation\Procedural Animation\Body.cpp(53,16): warning C4244:         ]
+C:\Users\Ian\Desktop\SFML Projects\Procedural Animation\Procedural Animation\Body.cpp(57,16): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ian\Desktop\SFML Projects\Procedural Animation\Procedural Animation\Body.cpp(57,16): warning C4244:         with
+C:\Users\Ian\Desktop\SFML Projects\Procedural Animation\Procedural Animation\Body.cpp(57,16): warning C4244:         [
+C:\Users\Ian\Desktop\SFML Projects\Procedural Animation\Procedural Animation\Body.cpp(57,16): warning C4244:             T=float
+C:\Users\Ian\Desktop\SFML Projects\Procedural Animation\Procedural Animation\Body.cpp(57,16): warning C4244:         ]
+C:\Users\Ian\Desktop\SFML Projects\Procedural Animation\Procedural Animation\Body.cpp(194,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ian\Desktop\SFML Projects\Procedural Animation\Procedural Animation\Body.cpp(213,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ian\Desktop\SFML Projects\Procedural Animation\Procedural Animation\Body.cpp(228,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ian\Desktop\SFML Projects\Procedural Animation\Procedural Animation\Body.cpp(298,17): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Procedural Animation.vcxproj -> C:\Users\Ian\Desktop\SFML Projects\Procedural Animation\Debug\Procedural Animation.exe
